@@ -1,4 +1,4 @@
-function to_roman (num) {
+function convert_to_roman (num) {
 
   var result ='';
   var decimal = [1000,900,500,400,100,90,50,40,10,9,5,4,1];
@@ -14,5 +14,5 @@ function to_roman (num) {
 
 
 module.exports = {
-  to_roman
+  convert_to_roman
 }
