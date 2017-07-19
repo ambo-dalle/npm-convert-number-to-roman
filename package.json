@@ -1,0 +1,26 @@
+{
+  "name": "convert-number-to-roman-arabic",
+  "version": "1.0.0",
+  "description": "convert number to roman arabic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ambo-dalle/npm-convert-number-to-roman.git"
+  },
+  "keywords": [
+    "convert",
+    "number",
+    "to",
+    "roman",
+    "converter"
+  ],
+  "author": "roman converter <ambodalle.st@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ambo-dalle/npm-convert-number-to-roman/issues"
+  },
+  "homepage": "https://github.com/ambo-dalle/npm-convert-number-to-roman#readme"
+}
