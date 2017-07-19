@@ -8,6 +8,6 @@ npm install --save convert_to_roman
 ```javascript
 const NumberToRoman = require('convert_to_roman')
 
-console.log(to_roman(1453))
+console.log(NumberToRoman(1453))
 result ' MCDLIII   '
 ```
